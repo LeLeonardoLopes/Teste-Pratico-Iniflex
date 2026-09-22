@@ -1,0 +1,16 @@
+# Compilação e binários
+bin/
+target/
+*.class
+
+# IDEs e Editores
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# Arquivos de sistema
+Thumbs.db
+Desktop.ini
